@@ -1,8 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
 	<ConfigVersions>
-		<Metadata name="Configuration.ерпц_IDM" id="0bd091c4-c720-484e-a071-49d98fc9368a" configVersion="1b7c38c0fde244c0eca79b57f945c7c207f84a5b"/>
+		<Metadata name="Catalog.ерпц_idm_ВидыОбъектовДоступа" id="c1099d58-46aa-407a-8b10-aee4df024ada" configVersion="3a590d23d528ce269e0d4f9c4bb6d75044fc6f59"/>
+		<Metadata name="Catalog.ерпц_idm_ВидыОбъектовДоступа.Predefined" id="c1099d58-46aa-407a-8b10-aee4df024ada.1c" configVersion="1113b0b44f0342f4b94659f123418126ad77c63e"/>
+		<Metadata name="Catalog.ерпц_idm_ОбъектыДоступа" id="f2ccc99b-265c-40f9-ae28-a3aba8d19a66" configVersion="9349facb2adba15cd3b0b41601b04a67538b1386">
+			<Metadata name="Catalog.ерпц_idm_ОбъектыДоступа.Attribute.ВидОбъектаДоступа" id="d0a8daa6-29a3-4fa5-b803-63ef337a393f"/>
+		</Metadata>
+		<Metadata name="CommonPicture.ерпц_idm_IDM16" id="5c68cd2b-bde5-4b2e-bbd4-8ae71fcb57f7" configVersion="b314c14cc363a27a17324c30a01d05822d513397"/>
+		<Metadata name="CommonPicture.ерпц_idm_IDM16.Picture" id="5c68cd2b-bde5-4b2e-bbd4-8ae71fcb57f7.0" configVersion="f4eff4eab77fbb007cffb0fd65c58c4dab367dfa"/>
+		<Metadata name="Configuration.ерпц_IDM" id="0bd091c4-c720-484e-a071-49d98fc9368a" configVersion="c93e083495b8a5ea056a5f95e9da710ec8374ac5"/>
 		<Metadata name="Language.Русский" id="e0daa722-1680-4183-b76a-4653bf3d3517" configVersion="37ec0fad90edc546521511d2ecbeeae1ac7104fb"/>
 		<Metadata name="Role.ерпц_idm_ОсновнаяРоль" id="57c37584-35dd-4b40-b640-c55223affddb" configVersion="862c4d2538bd7895bb85c2d3819e8232fb1f95df"/>
+		<Metadata name="Subsystem.ерпц_idm_IDM" id="af3d984a-cac9-4ec0-a950-9575837b6f75" configVersion="de6c365b50e98342b6b2751e863ce75b1721e96e"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

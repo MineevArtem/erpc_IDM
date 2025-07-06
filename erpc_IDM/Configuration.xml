@@ -53,8 +53,8 @@
 			<DefaultRoles>
 				<xr:Item xsi:type="xr:MDObjectRef">Role.ерпц_idm_ОсновнаяРоль</xr:Item>
 			</DefaultRoles>
-			<Vendor/>
-			<Version/>
+			<Vendor>ООО "ЕРП Центр"</Vendor>
+			<Version>1.0.0.1</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
@@ -65,7 +65,11 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>ерпц_idm_IDM</Subsystem>
+			<CommonPicture>ерпц_idm_IDM16</CommonPicture>
 			<Role>ерпц_idm_ОсновнаяРоль</Role>
+			<Catalog>ерпц_idm_ОбъектыДоступа</Catalog>
+			<Catalog>ерпц_idm_ВидыОбъектовДоступа</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
